@@ -10,7 +10,7 @@ title: Kate Henry - Nutcracker Design
 
  
 Given: 
-    Avergae size of a macadamia nut: 20 mm
+    Average size of a macadamia nut: 20 mm
     Average max grip strenght: 50.7kg
     Average load to crack a nut: 222.18kg
 
