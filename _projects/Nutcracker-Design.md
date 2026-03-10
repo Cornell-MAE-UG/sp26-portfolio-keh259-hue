@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: Nutcracker Design
 description: Class project
 technologies: 
