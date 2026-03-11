@@ -1,10 +1,8 @@
-YAML
-
 ---
-layout: page
+layout: project
 title: Nutcracker Design
 description: Class project
-technologies: 
+technologies:
 image: /assets/images/Nutcracker-Design.png
 ---
 
