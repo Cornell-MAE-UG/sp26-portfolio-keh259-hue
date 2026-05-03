@@ -39,8 +39,8 @@ Cross section: Hollow rectangular tube
 
 ### Images
 
-- Main design image: ![](/assets/images/Nutcracker.png)
-- Deflection diagram: ![](/assets/images/Deflected.png)
+- Main design image: <img src="{{ site.baseurl }}/assets/images/Nutcracker.png" alt="Nutcracker design" />
+- Deflection diagram: <img src="{{ site.baseurl }}/assets/images/Deflected.png" alt="Deflection diagram" />
 
 ### Collaboration
 
